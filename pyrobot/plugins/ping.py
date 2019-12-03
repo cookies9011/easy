@@ -10,6 +10,7 @@ from pyrobot import COMMAND_HAND_LER
 
 # -- Constants -- #
 ALIVE = "`I'm alive, Master :3`"
+COOKIE = "`hey, io sono luserbot di cookie`"
 HELP = ("Elaborate help available soon.\n"
         "https://telegram.dog/UserBotTalk")
 REPO = ("Userbot is available on GitHub:\n"
